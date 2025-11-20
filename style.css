@@ -1,0 +1,71 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+#signupSection {
+  background-color: #020c19;
+}
+.cardbg {
+  background-color: #0c1623;
+}
+#signupPassword {
+  color: #ffffff !important;
+  background-color: transparent !important;
+}
+#signupPassword::placeholder {
+  color: #ffffff9d !important;
+  opacity: 1;
+}
+#signupPassword:focus {
+  outline: none !important;
+  background-color: transparent !important;
+  color: #ffffff !important;
+}
+#signupEmail {
+  color: #fff !important;
+  background-color: transparent !important;
+}
+#signupEmail::placeholder {
+   color: #ffffff9d !important;
+  opacity: 1;
+}
+#signupEmail:focus {
+  outline: none !important;
+  background-color: transparent !important;
+  color: #ffffff !important;
+}
+#loginPassword {
+  color: #ffffff !important;
+  background-color: transparent !important;
+}
+#loginPassword::placeholder {
+  color: #ffffff9d !important;
+  opacity: 1;
+}
+#loginPassword:focus {
+  outline: none !important;
+  background-color: transparent !important;
+  color: #ffffff !important;
+}
+#loginEmail {
+  color: #fff !important;
+  background-color: transparent !important;
+}
+#loginEmail::placeholder {
+   color: #ffffff9d !important;
+  opacity: 1;
+}
+#loginEmail:focus {
+  outline: none !important;
+  background-color: transparent !important;
+  color: #ffffff !important;
+}
+#toLogin{
+  color: rgb(0, 106, 255);
+}
+#toLogin{
+  color: rgb(0, 106, 255);
+
+}
+ 
